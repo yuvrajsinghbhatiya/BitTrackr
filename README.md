@@ -17,7 +17,7 @@ Welcome to **BitTrackr**, is a website that allows users to search for informati
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yvrjbhatiya/BitTrackr
+   git clone https://github.com/yuvrajsinghbhatiya/BitTrackr
 
    ```
 
@@ -27,7 +27,7 @@ Welcome to **BitTrackr**, is a website that allows users to search for informati
    
     npm install
 
-4. **Start the Development Server**:
+3. **Start the Development Server**:
 
     npm start
 
@@ -35,6 +35,6 @@ Welcome to **BitTrackr**, is a website that allows users to search for informati
 ## Hosted Url- 
 
    ```
-   
+   https://bit-trackr.vercel.app/
    ```
 
